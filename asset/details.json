@@ -1,0 +1,59 @@
+[
+        {
+
+        "id": 1,
+        "name": "La Térasse",
+        "photo": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+        "cigle": "Votre resto vaste comme il faut!",
+        "tel": 12345678,
+        "address": {
+        "id": 1,
+        "commune": "Cocody",
+        "ville": "Abidjan",
+        "logitude": 5.349023,
+        "latitude": 4.342321
+        },
+        "type": {
+        "id": 1,
+        "name": "Resto Classqiue"
+        }
+        },
+        {
+ 
+        "id": 2,
+        "name": "La Térasse",
+        "photo": "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg",
+        "cigle": "Votre resto vaste comme il faut!",
+        "tel": 12345678,
+        "address": {
+        "id": 3,
+        "commune": "Cocody",
+        "ville": "Abidjan",
+        "logitude": 87652.042,
+        "latitude": 25465.05
+        },
+        "type": {
+        "id": 4,
+        "name": "Palace"
+        }
+        },
+        {
+        "id": 3,
+        "name": "IvoireBoutik",
+        "photo": "http://IvoireBoutik.com",
+        "cigle": "C'est ChapNik",
+        "tel": 87837592,
+        "address": {
+        "id": 4,
+        "commune": "Yoppougon",
+        "ville": "Abidjan",
+        "logitude": 87652.042,
+        "latitude": 25465.05
+        },
+        "type": {
+        "id": 2,
+        "name": "5 Etoiles"
+        }
+        }
+               
+]
